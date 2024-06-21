@@ -12,29 +12,29 @@ IF YOU AREN'T COMFORTABLE MODDING YOUR TABLET OR ITS PARTITION TABLE OR YOU ARE 
 
 ## Get Started
 
-- [```IMPORTANT: READ FIRST!```](guide/English/important.md)
+- [```IMPORTANT: READ FIRST!```](guide/english/important.md)
 
-- [Project Status](guide/English/status.md)
+- [Project Status](guide/english/status.md)
 
-- [Installation](guide/English/1-partition-en.md)
+- [Installation](guide/english/1-partition-en.md)
 
-- [Uninstallation](guide/English/uninstall-en.md)
+- [Uninstallation](guide/english/uninstall-en.md)
 
 
 ## Miscellaneous
-- [Dualboot Setup](guide/English/dualboot-en.md)
+- [Dualboot Setup](guide/english/dualboot-en.md)
 
-- [Troubleshooting](guide/English/troubleshooting-en.md)
+- [Troubleshooting](guide/english/troubleshooting-en.md)
 
-- [Updating Drivers](guide/English/update-en.md)
+- [Updating Drivers](guide/english/update-en.md)
 
-- [Reinstallation](guide/English/reinstall-en.md)
+- [Reinstallation](guide/english/reinstall-en.md)
 
-- [Updating UEFI](guide/English/UEFI-updating-en.md)
+- [Updating UEFI](guide/english/UEFI-updating-en.md)
 
-- [Re-rooting Android](guide/English/Re-rooting-en.md)
+- [Re-rooting Android](guide/english/re-rooting-en.md)
 
-- [Useful apps and instructions](guide/English/Additional-materials-en.md)
+- [Useful apps and instructions](guide/english/additional-materials-en.md)
 
 ## Contributors
 [<img alt="пользователь" src="ссылка на аву" />](ссылка на профиль)
