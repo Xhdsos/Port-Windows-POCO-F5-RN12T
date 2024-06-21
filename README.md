@@ -35,6 +35,3 @@ IF YOU AREN'T COMFORTABLE MODDING YOUR TABLET OR ITS PARTITION TABLE OR YOU ARE 
 - [Re-rooting Android](guide/english/re-rooting-en.md)
 
 - [Useful apps and instructions](guide/english/additional-materials-en.md)
-
-## Contributors
-[<img alt="пользователь" src="ссылка на аву" />](ссылка на профиль)
