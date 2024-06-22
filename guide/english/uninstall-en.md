@@ -14,11 +14,31 @@ If you want to relock your bootloader you'll need your partition table to be sto
 
 - [```Android platform tools```](https://developer.android.com/studio/releases/platform-tools)
   
-- [```Recovery Image (OrangeFox)```](https://github.com/Ctapchuk/android_device_xiaomi_marble-OFRP/releases)
+- [```Recovery Image (TWRP)```](https://github.com/Xhdsos/Port-Windows-POCO-F5-RN12T/releases/download/Files/modded-twrp.img)
 
-- [```Recovery Image (TWRP)```](https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/marble/)
+### 1-nd method
 
-### Notes
+> Boot to the modded-twrp
+```cmd
+fastboot flash recovery path/to/modded-twrp.img
+fastboot reboot recovery
+```
+
+#### Restore the partition layout
+> [!Warning]
+> This will wipe your Android files. Backup first if needed.
+
+> Unmount all partitions via the mount menu on your phone
+```cmd
+adb shell restore
+```
+### Reboot to Android
+```cmd
+adb reboot 
+```
+## Done!
+
+### 2-nd method
 
 > Replace ```<gpt_both0.bin>``` with the path to the gpt_both0.bin file.
 
