@@ -16,7 +16,7 @@ If you want to relock your bootloader you'll need your partition table to be sto
   
 - [```Recovery Image (TWRP)```](https://github.com/Xhdsos/Port-Windows-POCO-F5-RN12T/releases/download/Files/modded-twrp.img)
 
-### 1-nd method
+### 1-st method
 
 > Boot to the modded-twrp
 ```cmd
