@@ -29,7 +29,6 @@ cd "path\to\platform-tools"
 > Use this window throughout the entire guide. Do not close it.
 
 #### Boot the modded recovery
-> Unmount all partitions via the mount menu on your phone \
 > Replace **path\to** with the actual path of the recovery image
 ```cmd
 fastboot flash recovery path\to\modded-twrp.img
@@ -37,6 +36,8 @@ fastboot reboot recovery
 ```
 
 ### Partitioning your device
+> Unmount all partitions via the mount menu on your phone 
+> 
 > Replace **$** with the amount of storage you want Windows to have (do not add GB, just write the number)
 > 
 > If it asks you to run it once again, do so
