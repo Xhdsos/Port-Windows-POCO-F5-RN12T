@@ -9,7 +9,7 @@
 ### Prerequisites
 - ```Brain```
   
-- [```Android boot backup```](/guide/english/1-partition-en.md#Make-a-backup-of-your-existing-boot-image) (which you backed up on the first guide page)
+- [```Android boot backup```](/guide/english/1-partition-en.md#make-a-backup-of-your-existing-boot-image) (which you backed up on the first guide page)
 
 ### Patching your boot image
 - Copy the ```normal_boot.img``` file from the ```platform tools``` folder onto your tablet 
