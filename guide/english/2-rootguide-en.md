@@ -9,7 +9,7 @@
 ### Prerequisites
 - ```Brain```
   
-- [```Android boot backup```](/guide/English/1-partition-en.md#Make-a-backup-of-your-existing-boot-image) (which you backed up on the first guide page)
+- [```Android boot backup```](/guide/english/1-partition-en.md#Make-a-backup-of-your-existing-boot-image) (which you backed up on the first guide page)
 
 ### Patching your boot image
 - Copy the ```normal_boot.img``` file from the ```platform tools``` folder onto your tablet 
@@ -30,7 +30,7 @@
 fastboot flash boot <magisk_patched.img>
 ```
 
-### [Next step: Installing Windows](/guide/English/3-install-en.md)
+### [Next step: Installing Windows](/guide/english/3-install-en.md)
 
 
 
