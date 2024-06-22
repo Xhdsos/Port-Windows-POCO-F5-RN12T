@@ -14,7 +14,7 @@ If you don't like your Windows version or you've bricked your Windows install, o
 
 - ```Existing Windows and boot partitions``` (*If not met, [go back and just pretend this guide never existed](/guide/English/1-partition-en.md)*)
 
-- [```Recovery Image```](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/download/1.0/recovery.img)
+- [```Recovery Image```]([https://github.com/Xhdsos/Port-Windows-POCO-F5-RN12T/releases/download/Files/modded-twrp.img)
 
 - [```Android platform tools```](https://developer.android.com/studio/releases/platform-tools)
 
@@ -22,7 +22,8 @@ If you don't like your Windows version or you've bricked your Windows install, o
 ### Boot recovery to format the Windows and boot partitions
 
 ```cmd
-fastboot boot <recovery.img>
+fastboot flash recovery modded-twrp.img
+fastboot reboot recovery
 ```
 
 ### Format the partitions
