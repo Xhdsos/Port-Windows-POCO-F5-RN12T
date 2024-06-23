@@ -30,7 +30,7 @@
 fastboot flash boot <magisk_patched.img>
 ```
 
-### [Next step: Installing Windows](/guide/english/3-install-en.md)
+### [Next step: ~~Installing Windows~~ -W.I.P. ](/guide/english/3-install-en.md)
 
 
 

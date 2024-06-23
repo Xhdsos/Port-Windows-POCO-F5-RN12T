@@ -24,9 +24,9 @@ IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE P
 ## Miscellaneous
 - [Dualboot Setup](guide/english/dualboot-en.md)
 
-- [Troubleshooting](guide/english/troubleshooting-en.md)
+- [~~Troubleshooting~~ - W.I.P.](guide/english/troubleshooting-en.md)
 
-- [Updating Drivers](guide/english/update-en.md)
+- [~~Updating Drivers~~ - W.I.P.](guide/english/update-en.md)
 
 - [Reinstallation](guide/english/reinstall-en.md)
 

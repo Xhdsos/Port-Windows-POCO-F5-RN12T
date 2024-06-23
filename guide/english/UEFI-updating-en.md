@@ -16,7 +16,7 @@ Idk, but some people were asking about it
 - [```Latest UEFI```](https://github.com/Xhdsos/Port-Windows-POCO-F5-RN12T/releases/download/Files/Mu-marble.img)
 
 ## Replace old UEFI with the new one
-> If you haven't yet set up dualboot, follow the [dualboot guide](/guide/English/dualboot-en.md) to set up the WOA Helper properly
+> If you haven't yet set up dualboot, follow the [dualboot guide](/guide/english/dualboot-en.md) to set up the WOA Helper properly
 - Boot to Android
 - Open the `UEFI` folder in your internal storage
 - Delete the old UEFI
