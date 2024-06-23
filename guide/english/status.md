@@ -20,7 +20,7 @@ Not stable. Almost nothing works.
 - [X] CPU ```One core only```
 - [ ] Touchscreen
 - [X] UFS
-- [X] USB
+- [X] USB ```Host Mode only and no USB PD```
 - [ ] Wi-Fi
 - [ ] Microphone
 - [ ] Miracast
